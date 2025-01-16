@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp37;
+namespace Proiectt{
 
 public class Comanda
 {
@@ -30,4 +30,5 @@ public class Comanda
         
     }
     
+}
 }

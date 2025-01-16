@@ -1,0 +1,11 @@
+{
+  "Imprimante": [
+    {
+      "ModelImprimanta": "Model1",
+      "ProducatorImprimanta": "Producator1",
+      "CostImprimanta": 200
+    }
+  ],
+  "Comenzi": [],
+  "Filamente": {}
+}
